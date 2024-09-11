@@ -1,0 +1,6 @@
+created(1717880868.980139).
+assert(blog_post('Pensando...',':P',[])).
+assert(blog_post('Mi primer posteo','Hola! Este es mi primer posteo.',['un comentariooossoos'])).
+assert(blog_post(aaaaaaa,oooooooo,[])).
+retract(blog_post(aaaaaaa,oooooooo,[])).
+assert(blog_post(aaaaaaa,oooooooo,[adsad])).
